@@ -29,13 +29,13 @@ Demo : https://youtu.be/s7rI0d7cxUU
 5. Smart enemy which attempts to attack the charecter (Enemy knows where the charecter is on the road and moves towards it)
 
 ## Game Concepts
-1. Road moving - When we pass a road after some time that road gets moved to the front providing an endless road
-2. Rigidbodies and gravity
-3. Enemy, Road and Obstacle prefab creation- Many unique configurations of obstacles are created to spawn in the game to give uniqueness
-4. Object pools and random spawning for enemies and obstacles
-5. EnemyAI to make challenging enemies
-6. Particle effects and Ragdoll for death animations
-7. Canvas and UI to display basic information to the player
+- Road moving - When we pass a road after some time that road gets moved to the front providing an endless road
+- Rigidbodies and gravity
+- Enemy, Road and Obstacle prefab creation- Many unique configurations of obstacles are created to spawn in the game to give uniqueness
+- Object pools and random spawning for enemies and obstacles
+- EnemyAI to make challenging enemies
+- Particle effects and Ragdoll for death animations
+- Canvas and UI to display basic information to the player
 
 ## What the game looks like
 
@@ -55,8 +55,8 @@ Link : https://mrsurya1304.itch.io/3d-endless-runner?secret=An9WVLzPfrz4aUfMdA4Y
 5. System to store coins collected so the player can buy some accessories which could help play the game better
 
 ## Acknowledgement
-This game takes lots of inspiration from Subway Surfers. It is basically Subway Surfers in a town environment
-I also used ideas from the Youtube channel Quick 'n Dirty who have an amazing series on how to build an endless runner on Unity 3D
+-This game takes lots of inspiration from Subway Surfers. It is basically Subway Surfers in a town environment
+-I also used ideas from the Youtube channel Quick 'n Dirty who have an amazing series on how to build an endless runner on Unity 3D
 Playlist link: https://www.youtube.com/watch?v=Fn1Pm6nnPVk&list=PL2xbYe8TgQDPsXgVmd8RJdoIJ3eLio7R6
 
 
