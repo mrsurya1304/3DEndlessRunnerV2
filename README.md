@@ -38,6 +38,9 @@ Demo : https://youtu.be/s7rI0d7cxUU
 - Canvas and UI to display basic information to the player
 
 ## What the game looks like
+![alt text](https://github.com/mrsurya1304/3DEndlessRunnerV2/blob/main/GamepleaySample1.jpg)
+![alt text](https://github.com/mrsurya1304/3DEndlessRunnerV2/blob/main/GamepleaySample4.jpg)
+![alt tect](https://github.com/mrsurya1304/3DEndlessRunnerV2/blob/main/GamepleaySample6.jpg)
 
 
 ## Gameplay demo
