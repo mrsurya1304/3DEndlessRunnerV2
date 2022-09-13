@@ -45,13 +45,18 @@ public class ObstaclePooler : MonoBehaviour
     {
         GameObject objectToSpawn = poolDictionary[tag].Dequeue();  //Removing deactive prefab from the queue
 
-        objectToSpawn.SetActive(true);  //Activating the prefab
-        objectToSpawn.transform.position = position;
-        objectToSpawn.transform.rotation = rotation;
+        if (objectToSpawn != null)
+        {
+            objectToSpawn.SetActive(true);  //Activating the prefab
+            objectToSpawn.transform.position = position;
+            objectToSpawn.transform.rotation = rotation;
 
-        poolDictionary[tag].Enqueue(objectToSpawn);  //Putting back the prefab into the queue for reuse
+            poolDictionary[tag].Enqueue(objectToSpawn);  //Putting back the prefab into the queue for reuse
 
-        return objectToSpawn;
+            return objectToSpawn;
+        }
+        else
+            return null;
 
     }
 }

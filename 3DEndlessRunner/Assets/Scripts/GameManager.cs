@@ -21,9 +21,9 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       uiCoins.text = playercoins.ToString()+ "Coins"; //To display coins collected
+       uiCoins.text = playercoins.ToString()+ " Coins"; //To display coins collected
        int dist = Mathf.RoundToInt(player.transform.position.z)-60;  //To display distance
-       uiDistance.text = dist.ToString()+ "m";
+       uiDistance.text = dist.ToString()+ " m";
     }
 
     public void CoinsCollected()
