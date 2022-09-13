@@ -44,8 +44,8 @@ Demo : https://youtu.be/s7rI0d7cxUU
 Link : https://youtu.be/B8jHsXRwGcI
 
 ## Link to play the game
-You can play this game on the browser
-Link : https://mrsurya1304.itch.io/3d-endless-runner?secret=An9WVLzPfrz4aUfMdA4YiG12E
+- You can play this game on the browser
+- Link : https://mrsurya1304.itch.io/3d-endless-runner?secret=An9WVLzPfrz4aUfMdA4YiG12E
 
 ## Future ideas
 1. Addition of power ups
@@ -55,8 +55,8 @@ Link : https://mrsurya1304.itch.io/3d-endless-runner?secret=An9WVLzPfrz4aUfMdA4Y
 5. System to store coins collected so the player can buy some accessories which could help play the game better
 
 ## Acknowledgement
--This game takes lots of inspiration from Subway Surfers. It is basically Subway Surfers in a town environment
--I also used ideas from the Youtube channel Quick 'n Dirty who have an amazing series on how to build an endless runner on Unity 3D
-Playlist link: https://www.youtube.com/watch?v=Fn1Pm6nnPVk&list=PL2xbYe8TgQDPsXgVmd8RJdoIJ3eLio7R6
+- This game takes lots of inspiration from Subway Surfers. It is basically Subway Surfers in a town environment
+- I also used ideas from the Youtube channel Quick 'n Dirty who have an amazing series on how to build an endless runner on Unity 3D
+- Playlist link: https://www.youtube.com/watch?v=Fn1Pm6nnPVk&list=PL2xbYe8TgQDPsXgVmd8RJdoIJ3eLio7R6
 
 
