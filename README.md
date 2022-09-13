@@ -12,19 +12,51 @@ An Endless runner game made in Unity which can be played on PC and on the web. T
 7. Click on the project which opens it on Unity.
 8. Go to the project folder. Click on Scenes -> 3DEndlessRunner and click on the play button to play the game
 
+Demo : https://youtu.be/s7rI0d7cxUU
+
 ## How to play the game
-1. 
-2. 
+- Use the up arrow to move forward
+- Use left and right arrows to move across the road to dodge obstacles and enemies
+- Use the up arrow to jump
+- Run over the coins to collect them
+- Use the try again button to play again
+
 ## Game features
-1. 
-2. 
+1. Efficient endless road spawning without using much resources to boost performance
+2. Town environment creation, obstacle and enemy instantiation with optimized resource spawning techniques
+3. Realistic charecter with animations for running, jumbing, turning, and death
+4. Distance measurement of how far the charecter runs and also coin collection amount (Displayed on screen)
+5. Smart enemy which attempts to attack the charecter (Enemy knows where the charecter is on the road and moves towards it)
+
 ## Game Concepts
-1. 
-2. 
+1. Road moving - When we pass a road after some time that road gets moved to the front providing an endless road
+2. Rigidbodies and gravity
+3. Enemy, Road and Obstacle prefab creation- Many unique configurations of obstacles are created to spawn in the game to give uniqueness
+4. Object pools and random spawning for enemies and obstacles
+5. EnemyAI to make challenging enemies
+6. Particle effects and Ragdoll for death animations
+7. Canvas and UI to display basic information to the player
+
 ## What the game looks like
-#### Images
+
+
 ## Gameplay demo
+Link : https://youtu.be/B8jHsXRwGcI
+
 ## Link to play the game
+You can play this game on the browser
+Link : https://mrsurya1304.itch.io/3d-endless-runner?secret=An9WVLzPfrz4aUfMdA4YiG12E
+
 ## Future ideas
+1. Addition of power ups
+2. Addition of more levels with varying difficulty
+3. Addition of more charecters
+4. Better optimization of resources used for spawning
+5. System to store coins collected so the player can buy some accessories which could help play the game better
+
 ## Acknowledgement
+This game takes lots of inspiration from Subway Surfers. It is basically Subway Surfers in a town environment
+I also used ideas from the Youtube channel Quick 'n Dirty who have an amazing series on how to build an endless runner on Unity 3D
+Playlist link: https://www.youtube.com/watch?v=Fn1Pm6nnPVk&list=PL2xbYe8TgQDPsXgVmd8RJdoIJ3eLio7R6
+
 
